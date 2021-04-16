@@ -44,32 +44,22 @@ You can click the Preview link to take a look at your changes.
 <table>
   <tr>
       <th>Sexo</th>
-    <th>
-         Nomes
-       </th>
-       <th>
-         idade
-       </th>
+    <th>Nomes</th>
+       <th>idade</th>
   </tr>
   <tr>
        <td>Masculino</td>
-    <td>
-         Joel
-       </td>
+    <td>Joel</td>
        <td>15</td>
   </tr>
   <tr>
    <td>Masculino</td>
-    <td>
-      Pedro
-    </td>
+    <td>Pedro</td>
     <td>16</td>
   </tr>
   <tr>
   <td>Feminino</td>
-    <td>
-       Ana
-    </td>
+    <td>Ana</td>
     <td>16</td>
   </tr>
   <tr>
